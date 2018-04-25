@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ForiDunk/corporate-website/issues"
   },
-  "homepage": "https://github.com/ForiDunk/corporate-website#readme"
+  "homepage": "https://github.com/ForiDunk/corporate-website#readme",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
 }
